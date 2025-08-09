@@ -1,0 +1,37 @@
+{
+  "name": "workcity-wordpress-chat",
+  "version": "1.0.0",
+  "description": "A robust, scalable, and user-friendly chat system for WordPress with WooCommerce integration",
+  "main": "workcity-chat.php",
+  "scripts": {
+    "build": "echo 'Build process would go here'",
+    "watch": "echo 'Watch process would go here'",
+    "lint": "echo 'Linting would go here'",
+    "test": "echo 'Tests would go here'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workcityafrica/workcity-wordpress-chat.git"
+  },
+  "keywords": [
+    "wordpress",
+    "chat",
+    "woocommerce",
+    "real-time",
+    "messaging",
+    "support",
+    "ecommerce"
+  ],
+  "author": "WorkCity Africa",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/workcityafrica/workcity-wordpress-chat/issues"
+  },
+  "homepage": "https://github.com/workcityafrica/workcity-wordpress-chat#readme",
+  "devDependencies": {
+    "chart.js": "^3.9.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
